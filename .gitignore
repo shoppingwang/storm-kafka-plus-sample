@@ -115,6 +115,7 @@ $RECYCLE.BIN/
 .AppleDouble
 .LSOverride
 Icon
+etl-ml/metastore_db/*
  
  
 # Thumbnails
@@ -123,3 +124,7 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+etl-streaming/metastore_db
+
+metastore_db/
